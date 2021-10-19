@@ -13,8 +13,8 @@ A simple front-end for an imaginary veterinary clinic -- created as an excersize
 
 ## Installation
 
-Nothing to install, simply visit our Heroku-deployed application [here](https://blooming-anchorage-52775.herokuapp.com/).
-To locally deploy, clone the repo. Run 'npm i' for dependency installation and 'npm start' to start the app on localhost:3000
+To locally deploy, clone the repo. Run 'npm i' for dependency installation and 'npm start' to start the app on localhost:3000.
+Live deployment coming soon.
 
 ## Usage
 
